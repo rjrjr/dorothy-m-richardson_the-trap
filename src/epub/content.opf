@@ -52,7 +52,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64585</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007926262</dc:source>
-		<meta property="se:production-notes">In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.</meta>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
